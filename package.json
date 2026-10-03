@@ -1,0 +1,23 @@
+{
+  "name": "quickserve-mern",
+  "version": "1.0.0",
+  "description": "QuickServe - MERN Stack Online Service Website with MVC Architecture",
+  "scripts": {
+    "server": "npm --prefix backend run dev",
+    "server:start": "npm --prefix backend start",
+    "client": "npm --prefix frontend run dev",
+    "seed": "npm --prefix backend run seed",
+    "build:client": "npm --prefix frontend run build"
+  },
+  "keywords": [
+    "mern",
+    "mongodb",
+    "express",
+    "react",
+    "nodejs",
+    "mvc",
+    "services"
+  ],
+  "author": "",
+  "license": "ISC"
+}
